@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=SojeongLee&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 🌱 Education<br/>
-이화여자대학교 컴퓨터공학과 (2021.03~) <br/>
-미국 교환학생 프로그램 (예정) (2024.01 ~ 2024.05) <br/><br/>
+이화여자대학교 컴퓨터공학과 (2021.03~)<br/><br/>
 
 ✨ Experiences<br/>
 Google Development School Club GDSC Ewha 4th Member (2022.09 ~ 2023.02)<br/>
