@@ -1,26 +1,37 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=SojeongLee&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=Make-it-Count&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 🌱 Education<br/>
-이화여자대학교 컴퓨터공학과 (2021.03~)<br/><br/>
+---
+Undergraduate at Ewha Womans University ; Computer Science and Engineering <h5> March 2021 ~ <br/><br/>
 
 ✨ Experiences<br/>
-Google Development School Club GDSC Ewha 4th Member (2022.09 ~ 2023.02)<br/>
-이화여자대학교 인재개발원 커리어클럽 소속 웹개발 동아리 EFUB 3기 백엔드 인턴<br/>
-이화여대 학생을 위한 시간표 채점 및 공유 서비스 시간표 아티스트 백엔드 개발 <br/>
-신촌 연합 IT 창업 동아리: CEOS 17기 백엔드 인턴 <br/>
-심리 상담사 업무 보조를 위한 All-in-one IT서비스 TherapEase 백엔드 개발 <br/>
+---
+Google Development School Club GDSC Ewha 4th Member (Sep 2022 ~ Feb 2023)<br/>
+Ewha Human Resources Development Institute CareerClub Web Developing Club, EFUB Backend Intern <br/>
+TimeTable Scoring & Sharing service, TimeTableArtist Backend <br/>
+Sinchon universities' IT Starts-up Club, CEOS Backend Intern <br/>
+All-in-one IT service for Counseling psychologist, TherapEase Backend <br/>
 
 ⚙ Stack<br/>
+---
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <br/><br/>
-📫 Contact<br/> sj2741@gmail.com <br/><br/>
+
+📫 Contact<br/>
+---
+<a href="mailto:sj27419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sj27419@gmail.com"/></a>
+<a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/>
 
 </div>
 
