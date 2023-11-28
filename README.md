@@ -4,11 +4,12 @@
 
 🌱 Education<br/>
 ---
-Undergraduate at Ewha Womans University ; Computer Science and Engineering <h5> March 2021 ~ <br/><br/>
+Undergraduate at Ewha Womans University ; Computer Science and Engineering (March 2021 ~ ) <br/>
+ISEP exchange student at U.S.A ; Computer and Information Science (January 2024 ~ )
 
 ✨ Experiences<br/>
 ---
-Google Development School Club GDSC Ewha 4th Member (Sep 2022 ~ Feb 2023)<br/>
+Member, Backend, Google Development School Club GDSC Ewha (Sep 2022 ~ Feb 2023)<br/>
 Ewha Human Resources Development Institute CareerClub Web Developing Club, EFUB Backend Intern <br/>
 TimeTable Scoring & Sharing service, TimeTableArtist Backend <br/>
 Sinchon universities' IT Starts-up Club, CEOS Backend Intern <br/>
