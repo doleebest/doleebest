@@ -12,8 +12,9 @@ ISEP exchange student at U.S.A ; Computer and Information Science (January 2024 
 Member, Backend, Google Development School Club, GDSC Ewha <br/>
 Intern, Backend, Ewha Human Resources Development Institute CareerClub Web Developing Club, EFUB <br/>
 Backend, TimeTable Scoring & Sharing service, TimeTableArtist <br/>
-Intern, Backend, Sinchon universities' IT Starts-up Club, CEOS <br/>
+Intern, Backend, Sinchon association IT/Starts-up, CEOS <br/>
 Backend, All-in-one IT service for Counseling psychologist, TherapEase <br/>
+AI&CV, Sleepiness sensing service, Don't sleep <br/>
 
 ⚙ Stack<br/>
 ---
