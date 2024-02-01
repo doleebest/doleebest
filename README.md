@@ -1,11 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=Make-it-Count&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Make-it-Count&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 🌱 Education<br/>
 ---
 Undergraduate at Ewha Womans University ; Computer Science and Engineering (March 2021 ~ ) <br/>
-ISEP exchange student in U.S.A ; Computer and Information Science (January 2024 ~ )
+ISEP exchange student in U.S.A ; Computer and Information Science (January 2024 ~ May 2024)<br/><br/>
 
 ✨ Experiences<br/>
 ---
@@ -14,7 +14,7 @@ Intern, Backend, Ewha Human Resources Development Institute CareerClub Web Devel
 Backend, TimeTable Scoring & Sharing service, [TimeTableArtist](https://github.com/SamwaMoney) <br/>
 Intern, Backend, Sinchon association IT/Starts-up, [CEOS](https://github.com/CEOS-Developers) <br/>
 Backend, All-in-one IT service for Counseling psychologist, [TherapEase](https://github.com/TherapEase-CEOS/TherapEase-BE) <br/>
-AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machine-Learning/dont-sleep) <br/>
+AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machine-Learning/dont-sleep) <br/><br/>
 
 ⚙ Stack<br/>
 ---
@@ -24,9 +24,9 @@ AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machi
 <br/>
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Spring&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
@@ -39,16 +39,15 @@ AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machi
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AWS&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazon rds&logoColor=white">
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
 <br/><br/>
 
 📫 Contact<br/>
 ---
 <a href="mailto:sj27419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sj27419@gmail.com"/></a>
-<a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/>
+<a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/><br/>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sj27419)](https://solved.ac/sj27419)
 
 </div>
 
