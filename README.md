@@ -5,29 +5,44 @@
 🌱 Education<br/>
 ---
 Undergraduate at Ewha Womans University ; Computer Science and Engineering (March 2021 ~ ) <br/>
-ISEP exchange student at U.S.A ; Computer and Information Science (January 2024 ~ )
+ISEP exchange student in U.S.A ; Computer and Information Science (January 2024 ~ )
 
 ✨ Experiences<br/>
 ---
-Member, Backend, Google Development School Club, GDSC Ewha <br/>
-Intern, Backend, Ewha Human Resources Development Institute CareerClub Web Developing Club, EFUB <br/>
-Backend, TimeTable Scoring & Sharing service, TimeTableArtist <br/>
-Intern, Backend, Sinchon association IT/Starts-up, CEOS <br/>
-Backend, All-in-one IT service for Counseling psychologist, TherapEase <br/>
-AI&CV, Sleepiness sensing service, Don't sleep <br/>
+Member, Backend, Google Development School Club, [GDSC Ewha](https://github.com/GDSC-Ewha-4th) <br/>
+Intern, Backend, Ewha Human Resources Development Institute CareerClub Web Developing Club, [EFUB](https://github.com/EFUB) <br/>
+Backend, TimeTable Scoring & Sharing service, [TimeTableArtist](https://github.com/SamwaMoney) <br/>
+Intern, Backend, Sinchon association IT/Starts-up, [CEOS](https://github.com/CEOS-Developers) <br/>
+Backend, All-in-one IT service for Counseling psychologist, [TherapEase](https://github.com/TherapEase-CEOS/TherapEase-BE) <br/>
+AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machine-Learning/dont-sleep) <br/>
 
 ⚙ Stack<br/>
 ---
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazon rds&logoColor=white">
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 <br/><br/>
 
 📫 Contact<br/>
