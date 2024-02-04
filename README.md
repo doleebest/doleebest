@@ -40,7 +40,7 @@ AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machi
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS&logoColor=white">
 <br/><br/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sj27419)](https://solved.ac/sj27419)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj27419)](https://solved.ac/sj27419/)
 
 📫 Contact<br/>
 ---
