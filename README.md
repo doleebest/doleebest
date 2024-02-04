@@ -5,7 +5,7 @@
 🌱 Education<br/>
 ---
 Undergraduate at Ewha Womans University ; Computer Science and Engineering (Mar 2021 - ) <br/>
-ISEP exchange student in U.S.A ; Computer and Information Science (Jan - May 2024)<br/><br/>
+ISEP schalorship exchange student in U.S.A ; Computer and Information Science (Jan - May 2024)<br/><br/>
 
 ✨ Experiences<br/>
 ---
@@ -34,7 +34,6 @@ AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machi
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
