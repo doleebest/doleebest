@@ -1,6 +1,6 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Make-it-Count&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+<h3 align="center"> Hi, I'm Sojeong Lee! ☺️ </h3>
 
 🌱 Education<br/>
 ---
