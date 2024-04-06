@@ -1,21 +1,80 @@
 <div align="center">
 
-<h3 align="center"> Hi, I'm Sojeong Lee! ☺️ </h3>
+### Hi! I'm Sojeong Lee ☺️</br></br>
 
-🌱 Education<br/>
----
+### Education<br/>
 Undergraduate at Ewha Womans University ; Computer Science and Engineering (Mar 2021 - ) <br/>
 ISEP schalorship exchange student in U.S.A ; Computer and Information Science (Jan - May 2024)<br/><br/>
 
-✨ Experiences<br/>
----
-Member, Backend, Google Development School Club, [GDSC Ewha](https://github.com/GDSC-Ewha-4th) (Sept 2022 - Feb 2023)<br/>
-Intern, Backend, Ewha Human Resources Development Institute CareerClub Web Developing Club, [EFUB](https://github.com/EFUB) (Mar - Dec, 2023)<br/>
-Backend, TimeTable Scoring & Sharing service, [TimeTableArtist](https://github.com/SamwaMoney) (Mar - Aug, 2023) <br/>
-Intern, Backend, Sinchon association IT/Starts-up, [CEOS](https://github.com/CEOS-Developers) (Mar - Aug, 2023) <br/>
-Backend, All-in-one IT service for Counseling psychologist, [TherapEase](https://github.com/TherapEase-CEOS/TherapEase-BE) (May - Aug, 2023)<br/>
-AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machine-Learning/dont-sleep) (Dec, 2023) <br/><br/>
+### Experiences</br>
+<table style="width:100%">
+  <tr>
+    <th>position</th>
+    <th>organization</th>
+    <th>project</th>
+    <th>date</th>
+  </tr>
+  <tr>
+    <td style="width:25%">Member, Backend</td>
+    <td style="width:25%">Google Development School Club <a href="https://github.com/GDSC-Ewha-4th">GDSC Ewha</a></td>
+    <td style="width:25%"><a href="https://github.com/GDSC-Ewha-4th/Study-spring">Spring study group</td>
+    <td style="width:25%">Sept 2022 - Feb 2023</td>
+  </tr>
+    <tr>
+    <td style="width:20%">Intern(Member), Backend</td>
+    <td style="width:30%">Ewha Human Resources Development Institute CareerClub Web Developing Club <a href="https://github.com/EFUB">EFUB</a></td>
+    <td style="width:30%">TimeTable Scoring & Sharing service, <a href="https://github.com/SamwaMoney">TimeTableArtist</td>
+    <td style="width:20%">Mar - Dec, 2023</td>
+  </tr>
+  <tr>
+    <td style="width:20%">Intern(Member), Backend</td>
+    <td style="width:30%">Sinchon association IT/Starts-up Club <a href="https://github.com/CEOS-Developers">CEOS</a></td>
+    <td style="width:30%">All-in-one IT service for Counseling psychologist, <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</td>
+    <td style="width:20%">Mar - Dec, 2023</td>
+  </tr>
+  <tr>
+    <td style="width:20%">AI&CV</td>
+    <td style="width:30%">Machine Learning </a></td>
+    <td style="width:30%">Sleepiness sensing service, <a href="https://github.com/2023-2-Machine-Learning/dont-sleep">DontSleep</td>
+    <td style="width:20%">Dec 2023</td>
+  </tr>
+  <tr>
+    <td style="width:20%">Assistant Researcher </td>
+    <td style="width:30%">Computer Vision Lab</a></td>
+    <td style="width:30%">Research topic : Action Recognition in Depth-based Image Data; 
+<a href="https://github.com/doleebest/Python_MachineLearning_Guide">Python&ML</a>,
+<a href="https://github.com/doleebest/Tutorials-OpenCV">CVTutorials</a>,
+<a href="https://github.com/doleebest/CVL_practice">HomeHealthCare</a> </td>
+    <td style="width:20%">Sept 2022 - Feb 2023</td>
+  </tr>
+</table>
 
+<br/>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sj27419)](https://solved.ac/sj27419)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doleebest&show_icons=true&theme=graywhite)
+
+
+### Contact<br/>
+<a href="mailto:sj27419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sj27419@gmail.com"/></a>
+<a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/><br/>
+
+</div>
+
+<!--
+**doleebest/doleebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 ⚙ Stack<br/>
 ---
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -41,26 +100,4 @@ AI&CV, Sleepiness sensing service, [Don't sleep](https://github.com/2023-2-Machi
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS&logoColor=white">
 <br/><br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sj27419)](https://solved.ac/sj27419)<br/>
-
-
-📫 Contact<br/>
----
-<a href="mailto:sj27419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sj27419@gmail.com"/></a>
-<a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/><br/>
-</div>
-
-<!--
-**doleebest/doleebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
