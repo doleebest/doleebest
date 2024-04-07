@@ -21,31 +21,31 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
     <td style="width:25%">Sept 2022 - Feb 2023</td>
   </tr>
     <tr>
-    <td style="width:20%">Intern(Member), Backend</td>
-    <td style="width:30%">Ewha Human Resources Development Institute CareerClub Web Developing Club <a href="https://github.com/EFUB">EFUB</a></td>
-    <td style="width:30%">TimeTable Scoring & Sharing service, <a href="https://github.com/SamwaMoney">TimeTableArtist</td>
-    <td style="width:20%">Mar - Dec, 2023</td>
+    <td style="width:25%">Intern(Member), Backend</td>
+    <td style="width:25%">Ewha Human Resources Development Institute CareerClub Web Developing Club <a href="https://github.com/EFUB">EFUB</a></td>
+    <td style="width:25%">TimeTable Scoring & Sharing service, <a href="https://github.com/SamwaMoney">TimeTableArtist</td>
+    <td style="width:25%">Mar - Dec, 2023</td>
   </tr>
   <tr>
-    <td style="width:20%">Intern(Member), Backend</td>
-    <td style="width:30%">Sinchon association IT/Starts-up Club <a href="https://github.com/CEOS-Developers">CEOS</a></td>
-    <td style="width:30%">All-in-one IT service for Counseling psychologist, <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</td>
-    <td style="width:20%">Mar - Dec, 2023</td>
+    <td style="width:25%">Intern(Member), Backend</td>
+    <td style="width:25%">Sinchon association IT/Starts-up Club <a href="https://github.com/CEOS-Developers">CEOS</a></td>
+    <td style="width:25%">All-in-one IT service for Counseling psychologist, <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</td>
+    <td style="width:25%">Mar - Dec, 2023</td>
   </tr>
   <tr>
-    <td style="width:20%">AI&CV</td>
-    <td style="width:30%">Machine Learning </a></td>
-    <td style="width:30%">Sleepiness sensing service, <a href="https://github.com/2023-2-Machine-Learning/dont-sleep">DontSleep</td>
-    <td style="width:20%">Dec 2023</td>
+    <td style="width:25%">AI&CV</td>
+    <td style="width:25%">Machine Learning </a></td>
+    <td style="width:25%">Sleepiness sensing service, <a href="https://github.com/2023-2-Machine-Learning/dont-sleep">DontSleep</td>
+    <td style="width:25%">Dec 2023</td>
   </tr>
   <tr>
-    <td style="width:20%">Assistant Researcher </td>
-    <td style="width:30%">Computer Vision Lab</a></td>
-    <td style="width:30%">Research topic : Action Recognition in Depth-based Image Data; 
+    <td style="width:25%">Assistant Researcher </td>
+    <td style="width:25%">Computer Vision Lab</a></td>
+    <td style="width:25%">Research topic : Action Recognition in Depth-based Image Data; 
 <a href="https://github.com/doleebest/Python_MachineLearning_Guide">Python&ML</a>,
 <a href="https://github.com/doleebest/Tutorials-OpenCV">CVTutorials</a>,
 <a href="https://github.com/doleebest/CVL_practice">HomeHealthCare</a> </td>
-    <td style="width:20%">Sept 2022 - Feb 2023</td>
+    <td style="width:25%">Sept 2022 - Feb 2023</td>
   </tr>
 </table>
 
