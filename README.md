@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I'm Sojeong Lee ☺️</br></br>
+## Hi! I'm Sojeong Lee ☺️</br></br>
 
 ### Education<br/>
 Undergraduate at Ewha Womans University ; Computer Science and Engineering (Mar 2021 - ) <br/>
@@ -55,8 +55,10 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sj27419)](https://solved.ac/sj27419)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doleebest&show_icons=true&theme=graywhite)
 
+</br>
 
-### Contact<br/>
+---
+### <br> Contact<br/>
 <a href="mailto:sj27419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sj27419@gmail.com"/></a>
 <a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/><br/>
 
