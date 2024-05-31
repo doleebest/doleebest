@@ -34,7 +34,7 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
   </tr>
   <tr>
     <td style="width:25%">AI&CV</td>
-    <td style="width:25%">Machine Learning </a></td>
+    <td style="width:25%">Machine Learning team</a></td>
     <td style="width:25%">Sleepiness sensing service, <a href="https://github.com/2023-2-Machine-Learning/dont-sleep">DontSleep</td>
     <td style="width:25%">Dec 2023</td>
   </tr>
@@ -47,6 +47,12 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
 <a href="https://github.com/doleebest/CVL_practice">HomeHealthCare</a> </td>
     <td style="width:25%">Sept 2022 - Feb 2023</td>
   </tr>
+  </tr>
+    <td style="width:25%">Founding Member </td>
+    <td style="width:25%"><a href="https://github.com/8-DAstudy-8">EwhaDA(Dada Analytics)</a></td>
+    <td style="width:25%"> Group study with Books ; <a href="https://github.com/8-DAstudy-8/DAbook1">Preprocessing and Visualization for DA</td>
+    <td style="width:25%">May 2024 - </td>
+      
 </table>
 
 <br/>
