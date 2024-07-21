@@ -21,13 +21,13 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
     <td style="width:25%">Sept 2022 - Feb 2023</td>
   </tr>
     <tr>
-    <td style="width:25%">Intern(Member), Backend</td>
+    <td style="width:25%">Member, Backend</td>
     <td style="width:25%">Ewha Human Resources Development Institute CareerClub Web Developing Club <a href="https://github.com/EFUB">EFUB</a></td>
     <td style="width:25%">TimeTable Scoring & Sharing service, <a href="https://github.com/SamwaMoney">TimeTableArtist</td>
     <td style="width:25%">Mar - Dec, 2023</td>
   </tr>
   <tr>
-    <td style="width:25%">Intern(Member), Backend</td>
+    <td style="width:25%">Member, Backend</td>
     <td style="width:25%">Sinchon association IT/Starts-up Club <a href="https://github.com/CEOS-Developers">CEOS</a></td>
     <td style="width:25%">All-in-one IT service for Counseling psychologist, <a href="https://github.com/TherapEase-CEOS/TherapEase-BE">TherapEase</td>
     <td style="width:25%">Mar - Dec, 2023</td>
