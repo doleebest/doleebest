@@ -47,6 +47,43 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
 <a href="https://github.com/doleebest/CVL_practice">HomeHealthCare</a> </td>
     <td style="width:25%">Sept 2022 - Feb 2023</td>
   </tr>
+<tr>
+    <td style="width:25%">Team Member, ML</td>
+    <td style="width:25%">2024 LG Aimers (AI Education Program)</a></td>
+    <td style="width:25%"><a href="https://github.com/LG-Aimers-NoPainNoGain">Performance Optimization of Machine Learning Models for Predicting Part Defect Rate of Autonomous Vehicles</td>
+    <td style="width:25%">Dec 2023</td>
+  </tr>
+
+  <tr>
+    <td style="width:25%">Member</td>
+    <td style="width:25%">Big data & AI association, BOAZ</a></td>
+    <td style="width:25%">Research topic : LLM, NLP ; 
+<a href="https://github.com/doleebest/23_MiniProject_Faker.git">FakeNewsDetection</a>,
+<a href="https://github.com/doleebest/YoungNRich-LoanApproval.git">LoanApprovalService</a> </td>
+    <td style="width:25%">July 2024 - present</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Team Member </td>
+    <td style="width:25%">Machine Learning (Cyber Security) team project in Ewha Womans Univ</a></td>
+    <td style="width:25%">Research topic : <a href="https://github.com/doleebest/L3_Team_Project.git">Website Fingerprinting on the Tor Network</a></td>
+    <td style="width:25%">Nov 2024 - Dec 2024</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Contributor </td>
+    <td style="width:25%">2024 Open Source Contribution Academy</a></td>
+    <td style="width:25%"><a href="https://github.com/doleebest/loxilb.git">Loxilb Api version update</a></td>
+    <td style="width:25%">Sept 2024 - Dec 2024</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Member, Developer </td>
+    <td style="width:25%">2024 KAIST Madcamp Winter</a></td>
+    <td style="width:25%">
+      Book Club Management App service <a href="https://github.com/doleebest/madcamp_week1.git">SoBookSoBook</a>,<br>
+Pet loss Syndrome Healing Web service <a href="https://github.com/doleebest/madcamp_week2.git">Re:PET</a>,<br>
+    AI Refrigerator and Diet Management App for Living Alone <a href="https://github.com/doleebest/madcamp_week3.git">냉장고를부탁해(MyFridge)</a>,
+    Time Capsule App service <a href="https://github.com/doleebest/madcamp_week4.git">Our-Beloved-KAIST</a></td>
+    <td style="width:25%">Dec 2024 - Jan 2025</td>
+  </tr>
   
       
 </table>
