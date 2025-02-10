@@ -106,7 +106,8 @@ Pet loss Syndrome Healing Web service <a href="https://github.com/doleebest/madc
 ---
 ### <br> Contact<br/>
 <a href="mailto:sj27419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sj27419@gmail.com"/></a>
-<a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://doleebest.tistory.com/"/> <br/><br/>
+ <a href="https://velog.io/@doleebest"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@doleebest"/></a>
+ <a href="https://doleebest.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/><br/><br/>
 
 </div>
 
