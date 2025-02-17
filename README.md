@@ -67,7 +67,7 @@ ISEP schalorship exchange student in U.S.A ; Computer and Information Science (J
     <td style="width:25%">2024 Capstone design Project in Ewha Womans Univ</a></td>
     <td style="width:25%"><a href="https://github.com/2024-capstone-project">Eye tracking, motion recognition and Generative AI based presentation trainer, SPITCHING</a><br>
     ; 🥉3rd prize in 2024 SW start-up contest</td>
-    <td style="width:25%">Nov 2024 - Dec 2024</td>
+    <td style="width:25%">Nov 2024 - present </td>
   </tr>
   <tr>
     <td style="width:25%">Team Member </td>
